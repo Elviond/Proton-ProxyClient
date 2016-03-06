@@ -1,0 +1,22 @@
+{
+  "name": "Proton",
+  "version": "1.0.0",
+  "description": "Minecraft 1.9 Hacked Client using a proxy",
+  "main": "start.js",
+  "scripts": {
+    "start": "node start.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elviond/Proton-ProxyClient.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/elviond/Proton-ProxyClient/issues"
+  },
+  "homepage": "https://github.com/elviond/Proton-ProxyClient#readme",
+  "dependencies": {
+    "minecraft-protocol": "^0.19.4"
+  }
+}
